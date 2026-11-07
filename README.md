@@ -1,8 +1,12 @@
-# Microstrip_BPF 
-> Center frequency: 1090MHz
+## Telemetry system: Launch 4 Change
+# Design of Ground control system and onboard radio transmission systems
+> Antenna
 
-> Bandwidth: 30 MHZ
+> Low Noise Amplifier
 
-> System Impedance: 50 Ohms
+> Power Amplifier
 
-> Topology Chebyshev filter
+> Quadrature modulator
+> ADC/DAC
+> Binary protocol
+> **Encryption**
